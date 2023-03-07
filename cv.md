@@ -31,7 +31,7 @@ HTML
 CSS
 Figma(Development level)
 JavaScript (beginner)
-Git
+Git  
 ###Education
 
 Bachelor, Ala Too International university, Bishkek
