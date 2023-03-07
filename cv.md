@@ -8,7 +8,7 @@ Telegram: @Venus144
 
 Email: veneraomurzakkyzy@gmail.com
 
-Github: Venera00
+Github: venera00
 
 ##About myself I am currently learning Frontend development online. Want to be professional web developer and believe that I will succeed.
 
